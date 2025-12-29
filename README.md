@@ -194,7 +194,13 @@ SRM Institute of Science and Technology
 
 ## License
 
-[Specify your license here]
+This project, **MobileYOLO-Lite: A Compact and Detail-Preserving Detection Framework for Small Animals in Drone-Based Wildlife Monitoring**, is intended **only for academic and research purposes**.
+
+Commercial use, redistribution for profit, or deployment in commercial products is **not permitted** without prior written permission from the authors or the authorized institution.
+
+Users may study, modify, and extend the code for non-commercial research, provided that proper citation of the original work is maintained.
+
+For commercial licensing or permission requests, please contact the corresponding author.
 
 ## Contact
 
