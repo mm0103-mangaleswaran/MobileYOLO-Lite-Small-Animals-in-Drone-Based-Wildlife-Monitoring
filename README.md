@@ -136,16 +136,7 @@ python inference.py \
 - `--conf_threshold`: Confidence threshold for filtering detections (default: 0.5)
 - `--nms_threshold`: IoU threshold for Non-Maximum Suppression (default: 0.5)
 
-## Model Performance
 
-As reported in the research paper, MobileYOLO-Lite achieves:
-- **Accuracy**: 98.7%
-- **Precision**: 97.7%
-- **Recall**: 97.7%
-- **F1 Score**: 97.5%
-- **Inference Time**: 8.1 ms per frame
-- **FLOPs**: 1.52M
-- **Memory**: 1452 MB peak
 
 ## Project Structure
 
